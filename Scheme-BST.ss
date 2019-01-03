@@ -1,4 +1,7 @@
-;; 7 discussed with Joanna Garrett
+;; Joy Stockwell; discussed with Joanna Garrett
+;; operations on Binary Search Trees of the form
+;; BST = (num) | (num (BST) (BST))
+;; where numbers are ordered as usual for a BST
 
 (define empty-BST
 	(lambda ()
